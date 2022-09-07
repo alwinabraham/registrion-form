@@ -1,0 +1,10 @@
+Firstname,Lastname,Address,Gender,Date of Birth,Pincode,Course,Email
+,,,,,,,
+Alwin,Abraham,valamparambil,Male,13-05-1999,673604,bsc cs,alwinabraham990@gmail.com
+chris,evans,calicut,Male,12-03-3446,673604,engineering,aaa@gmail.com
+liam,binu,valamparambil,Male,21-01-2021,673604,Docter,liambinu098@gmail.com
+brad,pitt,america,Male,12-03-3446,673604,Actor,bradpitt@gmail.com
+
+Alwin	Abraham	valamparambil	Male	13-05-1999	673604	Actor	alwin
+		calicut	undefined				
+Alwin	Abraham		undefined				
